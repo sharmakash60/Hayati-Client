@@ -1,0 +1,64 @@
+{
+  "faqs": [
+    {
+      "id": "faq-01",
+      "category": "Ingredients",
+      "question": "What differentiates CAn from conventional sparkling water and standard sports energy drinks?",
+      "answer": "CAn is an engineered functional beverage that bridges the gap between clean alpine spring hydration and clinical athletic performance. Unlike conventional sparkling waters that use tap water and synthetic flavor chemicals, or energy drinks loaded with 40g of sucrose sugar and high-dose synthetic caffeine, CAn delivers 450mg of bioavailable ionic electrolytes and organic botanical adaptogens with zero sugar, zero artificial sweeteners, and zero synthetic preservatives."
+    },
+    {
+      "id": "faq-02",
+      "category": "Ingredients",
+      "question": "Does CAn contain any sugar alcohols, erythritol, stevia, or sucralose?",
+      "answer": "None whatsoever. CAn contains zero grams of sugar, zero sugar alcohols (such as erythritol, xylitol, or maltitol), and zero chemical non-nutritive sweeteners (such as aspartame, acesulfame potassium, or sucralose). The nuanced flavor profiles are derived strictly from cold-pressed fruit essences, zests, and organic botanical extracts."
+    },
+    {
+      "id": "faq-03",
+      "category": "Ingredients",
+      "question": "Where is the water harvested, and how is it filtered?",
+      "answer": "Every drop of CAn is harvested from deep, protected alpine aquifers situated beneath volcanic basalt and mineralized limestone strata. The water is naturally gravity-filtered through these mineral layers over decades, resulting in a naturally alkaline, ultra-crisp base before our precision electrolyte matrix is added."
+    },
+    {
+      "id": "faq-04",
+      "category": "Sustainability",
+      "question": "Why does CAn package exclusively in aluminum cans instead of glass or recycled plastic?",
+      "answer": "Aluminum is the world's most infinitely recyclable beverage substrate. Over 75% of all aluminum ever produced in human history is still in productive use today. An aluminum can can be recycled, re-melted, and placed back onto retail shelves within 60 days. In contrast, plastic degrades with every recycling cycle and leaches microplastics, while glass carries a 5x larger carbon footprint during freight transport due to weight."
+    },
+    {
+      "id": "faq-05",
+      "category": "Sustainability",
+      "question": "Is the shipping packaging curbside recyclable?",
+      "answer": "Yes. Our secondary outer cartons and internal protective dividers are manufactured from 100% unbleached post-consumer kraft corrugated board printed with water-based non-toxic soy inks. You can place the entire shipping parcel directly into standard municipal curbside paper recycling."
+    },
+    {
+      "id": "faq-06",
+      "category": "Performance",
+      "question": "What is the science behind the 450mg Ionic Electrolyte Matrix?",
+      "answer": "Optimal cellular hydration requires specific milligram ratios of sodium, potassium, and magnesium ions to activate the body's sodium-glucose cotransporters and restore cellular osmotic equilibrium. Our 450mg ionic matrix utilizes pink Himalayan rock salts and marine magnesium malate to rapidly hydrate bloodstream plasma and eliminate muscle cramps without gastric distress."
+    },
+    {
+      "id": "faq-07",
+      "category": "Performance",
+      "question": "Is CAn suitable for ketogenic, vegan, paleo, and intermittent fasting lifestyles?",
+      "answer": "Yes. With 0g net carbs, 0g sugars, zero animal derivatives, and zero glycemic response, CAn does not break a fasted metabolic state and fits perfectly into ketogenic, vegan, paleo, and whole-food dietary protocols."
+    },
+    {
+      "id": "faq-08",
+      "category": "Orders & Shipping",
+      "question": "When will Batch 001 Priority Drop orders ship?",
+      "answer": "Batch 001 priority allocations begin dispatch immediately upon canning completion. Members on the priority reservation list receive tracking confirmation within 24 hours of fulfillment, with delivery averaging 2–3 business days across the continental United States."
+    },
+    {
+      "id": "faq-09",
+      "category": "Orders & Shipping",
+      "question": "Can I customize a variety pack with multiple flavors?",
+      "answer": "Yes. Our 12-can and 24-can custom crates allow you to select any combination of our 6 core botanical profiles (Electric Lime, Solar Orange, Glacier Mint, Cosmic Blackberry, Neon Grapefruit, and Golden Yuzu) at checkout."
+    },
+    {
+      "id": "faq-10",
+      "category": "Orders & Shipping",
+      "question": "What is the CAn Satisfaction & Damage Replacement Guarantee?",
+      "answer": "If any can in your shipment arrives compromised, or if you are not completely energized by your first sip, contact concierge@can-beverages.com within 30 days and our team will issue an immediate replacement case or full refund with zero return hassle."
+    }
+  ]
+}

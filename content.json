@@ -1,0 +1,133 @@
+{
+  "brand": {
+    "name": "CAn",
+    "shortName": "CAn",
+    "legalName": "CAn Beverages Inc.",
+    "tagline": "Liquid Precision. Zero Compromise.",
+    "mission": "To engineer clean, high-performance functional hydration with zero artificial chemistry, packaged exclusively in infinitely recyclable aluminum.",
+    "metaDescription": "CAn is a next-generation functional beverage formulated with 450mg ionic electrolytes, alpine spring purity, and zero artificial sweeteners in infinitely recyclable aluminum cans.",
+    "contactEmail": "concierge@can-beverages.com"
+  },
+  "preloader": {
+    "monogram": "C",
+    "statusPhrases": [
+      "Calibrating electrolyte ratios...",
+      "Purifying alpine spring strata...",
+      "Chilling aluminum canisters...",
+      "Igniting botanical essences...",
+      "Formula locked. System ready."
+    ],
+    "readyText": "ENTER EXPERIENCE"
+  },
+  "hero": {
+    "badge": "100% Recyclable • Zero Sugar • 450mg Electrolytes",
+    "headline": "REFRESH YOUR ENGINE",
+    "subheadline": "Crafted for high performers. Pure alpine mountain water charged with bioavailable ionic electrolytes and organic botanical adaptogens.",
+    "primaryCta": { "label": "Claim First Drop", "href": "#newsletter" },
+    "secondaryCta": { "label": "Explore 6 Flavors", "href": "#variants" }
+  },
+  "variants": [
+    {
+      "id": "electric-lime",
+      "name": "Electric Lime",
+      "tagline": "Crisp Citrus Awakening",
+      "description": "Cold-pressed Mexican key lime zest paired with Japanese yuzu essence and micro-harvested marine pink salt for immediate palate activation.",
+      "flavorProfile": "Key Lime • Yuzu Zest • Sea Salt",
+      "accentColor": "#a3e635",
+      "badge": "Flagship Formula",
+      "media": { "canImage": "/media/can-electric-lime.svg" }
+    },
+    {
+      "id": "solar-orange",
+      "name": "Solar Orange",
+      "tagline": "Vibrant Blood Citrus",
+      "description": "Sun-drenched Sicilian blood orange juice essence infused with cold-extracted ginger root and anti-inflammatory organic turmeric.",
+      "flavorProfile": "Sicilian Blood Orange • Ginger Root • Organic Turmeric",
+      "accentColor": "#ff5e18",
+      "badge": "Community Favorite",
+      "media": { "canImage": "/media/can-solar-orange.svg" }
+    },
+    {
+      "id": "glacier-mint",
+      "name": "Glacier Mint",
+      "tagline": "Sub-Zero Alpine Rush",
+      "description": "Crisp spearmint leaves from glacial foothills blended with wild blue agave extract and ultra-chilled alkaline electrolyte salts.",
+      "flavorProfile": "Wild Spearmint • Blue Agave • Glacial Minerals",
+      "accentColor": "#00f0ff",
+      "badge": "Sub-Zero Series",
+      "media": { "canImage": "/media/can-glacier-mint.svg" }
+    },
+    {
+      "id": "cosmic-blackberry",
+      "name": "Cosmic Blackberry",
+      "tagline": "Deep Forest Infusion",
+      "description": "Hand-foraged wild mountain blackberries steeped with organic hibiscus petals and antioxidant-dense Brazilian acai berries.",
+      "flavorProfile": "Wild Blackberry • Acai Berry • Tart Hibiscus",
+      "accentColor": "#a855f7",
+      "badge": "Limited Reserve",
+      "media": { "canImage": "/media/can-cosmic-blackberry.svg" }
+    },
+    {
+      "id": "neon-grapefruit",
+      "name": "Neon Grapefruit",
+      "tagline": "Tart Botanical Bite",
+      "description": "Crisp pink grapefruit peel paired with aromatic French rosemary extract and adaptogenic red Panax ginseng for sustained mental poise.",
+      "flavorProfile": "Ruby Grapefruit • Wild Rosemary • Red Panax Ginseng",
+      "accentColor": "#ec4899",
+      "badge": "Seasonal Batch",
+      "media": { "canImage": "/media/can-neon-grapefruit.svg" }
+    },
+    {
+      "id": "golden-yuzu",
+      "name": "Golden Yuzu",
+      "tagline": "Tropical Energy Catalyst",
+      "description": "Sun-ripened Alphonso mango essence melded with golden passionfruit and sensorially balancing KSM-66 organic ashwagandha extract.",
+      "flavorProfile": "Alphonso Mango • Passionfruit • Organic Ashwagandha",
+      "accentColor": "#f59e0b",
+      "badge": "Adaptogenic Blend",
+      "media": { "canImage": "/media/can-golden-yuzu.svg" }
+    }
+  ],
+  "benefits": [
+    {
+      "stepNumber": 1,
+      "id": "benefits-1",
+      "title": "Alpine Spring Purity",
+      "claimSwap": {
+        "standardReality": "Synthetic flavor chemicals, artificial preservatives, and municipal tap water disguised under commercial branding.",
+        "canInnovation": "Direct alpine mineral spring water naturally filtered through deep limestone strata with zero chemical additives."
+      },
+      "metric": { "value": "100%", "label": "Pristine Mountain Spring Water" }
+    },
+    {
+      "stepNumber": 2,
+      "id": "benefits-2",
+      "title": "Infinite Aluminum Loop",
+      "claimSwap": {
+        "standardReality": "Single-use petroleum plastics and multi-layer cartons that persist in oceanic ecosystems for over four hundred years.",
+        "canInnovation": "Infinitely recyclable aerospace-grade aluminum that re-enters the manufacturing cycle within sixty days of collection."
+      },
+      "metric": { "value": "0%", "label": "Single-Use Plastic Footprint" }
+    },
+    {
+      "stepNumber": 3,
+      "id": "benefits-3",
+      "title": "Ionic Hydration Matrix",
+      "claimSwap": {
+        "standardReality": "Massive sucrose sugar loads and artificial sweetener syrups that trigger severe insulin spikes and rebound fatigue.",
+        "canInnovation": "Precisely calibrated ionic ratios of potassium, magnesium, and Himalayan pink salts for deep cellular hydration."
+      },
+      "metric": { "value": "450mg", "label": "Ionic Bioavailable Salts" }
+    },
+    {
+      "stepNumber": 4,
+      "id": "benefits-4",
+      "title": "Cognitive Botanical Flow",
+      "claimSwap": {
+        "standardReality": "Over-caffeinated synthetic jitter cocktails that spike nervous tension and destroy restorative sleep architecture.",
+        "canInnovation": "Organic L-Theanine and nootropic green tea polyphenols calibrated to promote calm, laser-sharp cognitive flow."
+      },
+      "metric": { "value": "0g", "label": "Glycemic Load & Crash" }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+Old URL Pattern,New Canonical Destination,Status Code,Rationale,QA Verification Status
+https://hayatiworld.com/collections/hopp-prebiotic-soda-copy,https://hayatiworld.com/#variants,301 Permanent,Fixes historical mismatched handle in Shopify navigation,Verified
+https://hayatiworld.com/collections,https://hayatiworld.com/#variants,301 Permanent,Collections index mapped to interactive variant scroller,Verified
+https://hayatiworld.com/collections/all,https://hayatiworld.com/#variants,301 Permanent,Catalog index mapped to interactive variant scroller,Verified
+https://hayatiworld.com/collections/alder,https://hayatiworld.com/#variants,301 Permanent,Alder collection filter anchor,Verified
+https://hayatiworld.com/collections/hopp-series,https://hayatiworld.com/#variants,301 Permanent,HOPP Series collection filter anchor,Verified
+https://hayatiworld.com/collections/signature-botanicals,https://hayatiworld.com/#variants,301 Permanent,Signature Botanicals collection filter anchor,Verified
+https://hayatiworld.com/collections/fruit-splash,https://hayatiworld.com/#variants,301 Permanent,Fruit Splash collection filter anchor,Verified
+https://hayatiworld.com/collections/classic-soda,https://hayatiworld.com/#variants,301 Permanent,Classic Soda collection filter anchor,Verified
+https://hayatiworld.com/collections/:col/products/:sku,https://hayatiworld.com/products/:sku,301 Permanent,Nested collection product URL normalized to canonical PDP,Verified
+https://hayatiworld.com/pages/about-us,https://hayatiworld.com/about,301 Permanent,Shopify About page to Next.js /about,Verified
+https://hayatiworld.com/pages/about,https://hayatiworld.com/about,301 Permanent,Shopify About slug alias to Next.js /about,Verified
+https://hayatiworld.com/pages/contact,https://hayatiworld.com/#newsletter,301 Permanent,Shopify Contact page to concierge registration/footer,Verified
+https://hayatiworld.com/pages/contact-us,https://hayatiworld.com/#newsletter,301 Permanent,Shopify Contact-Us slug alias,Verified
+https://hayatiworld.com/pages/faq,https://hayatiworld.com/#faq,301 Permanent,Shopify FAQ page to interactive FAQ accordion,Verified
+https://hayatiworld.com/pages/terms-and-conditions,https://hayatiworld.com/terms,301 Permanent,Shopify legal page to Next.js /terms,Verified
+https://hayatiworld.com/pages/terms,https://hayatiworld.com/terms,301 Permanent,Terms short alias,Verified
+https://hayatiworld.com/pages/privacy-policy,https://hayatiworld.com/privacy,301 Permanent,Shopify Privacy Policy to Next.js /privacy,Verified
+https://hayatiworld.com/pages/privacy,https://hayatiworld.com/privacy,301 Permanent,Privacy short alias,Verified
+https://hayatiworld.com/pages/refund-policy,https://hayatiworld.com/refund-policy,301 Permanent,Shopify Refund Policy to Next.js /refund-policy,Verified
+https://hayatiworld.com/pages/cancellation-and-refund-policy,https://hayatiworld.com/refund-policy,301 Permanent,Shopify alternate refund slug,Verified
+https://hayatiworld.com/pages/legal-notice,https://hayatiworld.com/legal-notice,301 Permanent,Shopify Impressum to Next.js /legal-notice,Verified
+https://hayatiworld.com/policies/terms-of-service,https://hayatiworld.com/terms,301 Permanent,Shopify hosted policy URL to Next.js /terms,Verified
+https://hayatiworld.com/policies/privacy-policy,https://hayatiworld.com/privacy,301 Permanent,Shopify hosted policy URL to Next.js /privacy,Verified
+https://hayatiworld.com/policies/refund-policy,https://hayatiworld.com/refund-policy,301 Permanent,Shopify hosted policy URL to Next.js /refund-policy,Verified
+https://hayatiworld.com/policies/shipping-policy,https://hayatiworld.com/terms,301 Permanent,Shopify hosted policy URL to Next.js /terms#shipping,Verified
+https://hayatiworld.com/policies/legal-notice,https://hayatiworld.com/legal-notice,301 Permanent,Shopify hosted policy URL to Next.js /legal-notice,Verified
+https://hayatiworld.com/shop,https://hayatiworld.com/#variants,301 Permanent,Legacy shortcut to variant scroller,Verified
+https://hayatiworld.com/catalog,https://hayatiworld.com/#variants,301 Permanent,Legacy shortcut to variant scroller,Verified
+https://hayatiworld.com/flavors,https://hayatiworld.com/#variants,301 Permanent,Legacy shortcut to variant scroller,Verified

@@ -1,0 +1,597 @@
+{
+  "brand": {
+    "name": "Hayati",
+    "shortName": "Hayati",
+    "legalName": "Hayati World",
+    "tagline": "Liquid Precision. Zero Compromise.",
+    "mission": "To craft premium functional beverages that energise and hydrate, using only the finest natural ingredients.",
+    "metaDescription": "Hayati is a next-generation functional beverage formulated with ionic electrolytes, real fruit juice, and zero artificial sweeteners in 100% recyclable aluminum cans. Shop online at hayatiworld.com.",
+    "contactEmail": "info@hayatiworld.com",
+    "contactPhone": "+91 87920 09700",
+    "whatsapp": "https://wa.me/918792009700",
+    "websiteUrl": "https://hayatiworld.com",
+    "logoPath": "/logo.webp",
+    "social": {
+      "instagram": "https://instagram.com/hayati_world_official",
+      "whatsapp": "https://wa.me/918792009700"
+    }
+  },
+  "preloader": {
+    "monogram": "HAYATI",
+    "logoPath": "/logo.webp",
+    "statusPhrases": [
+      "Calibrating electrolyte ratios...",
+      "Purifying alpine spring strata...",
+      "Chilling aluminum canisters...",
+      "Igniting botanical essences...",
+      "Formula locked. System ready."
+    ],
+    "readyText": "ENTER EXPERIENCE"
+  },
+  "header": {
+    "navLinks": [
+      { "label": "Overview", "href": "#hero" },
+      { "label": "Flavors", "href": "#variants" },
+      { "label": "Benefits", "href": "#benefits" },
+      { "label": "FAQ", "href": "#faq" }
+    ],
+    "cta": {
+      "label": "Shop Now",
+      "href": "#variants"
+    }
+  },
+  "hero": {
+    "badge": "100% Recyclable • Zero Sugar • 450mg Electrolytes",
+    "headline": "REFRESH YOUR ENGINE",
+    "headlineSuffix": "WITH LIQUID PRECISION",
+    "subheadline": "Crafted for high performers. Pure alpine mountain water charged with bioavailable ionic electrolytes and organic botanical adaptogens.",
+    "primaryCta": {
+      "label": "Claim First Drop",
+      "href": "#newsletter",
+      "ariaLabel": "Scroll to newsletter to claim early allocation"
+    },
+    "secondaryCta": {
+      "label": "Explore 6 Flavors",
+      "href": "#variants",
+      "ariaLabel": "Scroll to variant flavor scroller"
+    },
+    "trustBadges": [
+      { "label": "Zero Sugar", "detail": "0g Glycemic Load" },
+      { "label": "Infinitely Recyclable", "detail": "100% Aluminum" },
+      { "label": "Ionic Hydration", "detail": "450mg Marine Salts" }
+    ]
+  },
+  "variants": [
+    {
+      "id": "alder-apple",
+      "name": "Alder Crisp Apple",
+      "collection": "Alder Series",
+      "tagline": "Mountain Orchard Precision",
+      "description": "Cold-extracted crisp green apple essence infused with ionic Himalayan pink minerals and pure alpine strata spring water.",
+      "flavorProfile": "Granny Smith Apple • Alpine Spring • Pink Salt",
+      "accentColor": "#22c55e",
+      "glowColor": "rgba(34, 197, 94, 0.4)",
+      "badge": "Alder Series",
+      "media": {
+        "canImage": "/media/products/Alder_Apple.webp",
+        "altText": "Hayati Alder Crisp Apple 355ml aluminum can render"
+      },
+      "tastingNotes": ["Crisp Tart Bite", "Clean Orchard Finish", "450mg Electrolytes"],
+      "nutrition": [
+        { "label": "Calories", "value": "5" },
+        { "label": "Total Sugar", "value": "0g" },
+        { "label": "Electrolytes", "value": "450mg" },
+        { "label": "Magnesium", "value": "60mg" },
+        { "label": "Potassium", "value": "180mg" }
+      ],
+      "inStock": true,
+      "ctaLink": "#newsletter"
+    },
+    {
+      "id": "alder-lime",
+      "name": "Alder Zesty Lime",
+      "collection": "Alder Series",
+      "tagline": "Citrus Cellular Activation",
+      "description": "Cold-pressed Mexican lime zest paired with Japanese yuzu essence and micro-harvested marine salts for immediate palate activation.",
+      "flavorProfile": "Key Lime • Yuzu Zest • Sea Minerals",
+      "accentColor": "#a3e635",
+      "glowColor": "rgba(163, 230, 53, 0.4)",
+      "badge": "Alder Series",
+      "media": {
+        "canImage": "/media/products/Alder_Lime.webp",
+        "altText": "Hayati Alder Zesty Lime 355ml aluminum can render"
+      },
+      "tastingNotes": ["High Acidity", "Crisp Clean Finish", "Zesty Mineral Bite"],
+      "nutrition": [
+        { "label": "Calories", "value": "5" },
+        { "label": "Total Sugar", "value": "0g" },
+        { "label": "Electrolytes", "value": "450mg" },
+        { "label": "Magnesium", "value": "60mg" },
+        { "label": "Potassium", "value": "180mg" }
+      ],
+      "inStock": true,
+      "ctaLink": "#newsletter"
+    },
+    {
+      "id": "alder-peach",
+      "name": "Alder Sun Peach",
+      "collection": "Alder Series",
+      "tagline": "Sun-Drenched Nectar",
+      "description": "Ripe alpine orchard peach blended with organic chamomile and micro-filtered marine potassium salts.",
+      "flavorProfile": "White Peach • Chamomile • Mineral Salts",
+      "accentColor": "#fb923c",
+      "glowColor": "rgba(251, 146, 60, 0.4)",
+      "badge": "Alder Series",
+      "media": {
+        "canImage": "/media/products/Alder_peach.webp",
+        "altText": "Hayati Alder Sun Peach 355ml aluminum can render"
+      },
+      "tastingNotes": ["Velvety Peach", "Subtle Floral Note", "Zero Sugar Clean Finish"],
+      "nutrition": [
+        { "label": "Calories", "value": "5" },
+        { "label": "Total Sugar", "value": "0g" },
+        { "label": "Electrolytes", "value": "430mg" },
+        { "label": "Magnesium", "value": "55mg" },
+        { "label": "Potassium", "value": "175mg" }
+      ],
+      "inStock": true,
+      "ctaLink": "#newsletter"
+    },
+    {
+      "id": "hopp-ginger-lime",
+      "name": "HOPP Ginger Lime",
+      "collection": "HOPP Series",
+      "tagline": "Adaptogenic Botanical Heat",
+      "description": "Cold-extracted spicy Peruvian ginger root blended with crushed kaffir lime leaves and bioavailable ionic magnesium.",
+      "flavorProfile": "Spiced Ginger • Kaffir Lime • Marine Electrolytes",
+      "accentColor": "#f59e0b",
+      "glowColor": "rgba(245, 158, 11, 0.4)",
+      "badge": "HOPP Series",
+      "media": {
+        "canImage": "/media/products/HOPP_Ginger_Lime.webp",
+        "altText": "Hayati HOPP Ginger Lime 355ml aluminum can render"
+      },
+      "tastingNotes": ["Warm Ginger Heat", "Bright Lime Acid", "No Caffeine Surge"],
+      "nutrition": [
+        { "label": "Calories", "value": "5" },
+        { "label": "Total Sugar", "value": "0g" },
+        { "label": "Electrolytes", "value": "460mg" },
+        { "label": "Magnesium", "value": "65mg" },
+        { "label": "Potassium", "value": "190mg" }
+      ],
+      "inStock": true,
+      "ctaLink": "#newsletter"
+    },
+    {
+      "id": "hopp-lemon-mint",
+      "name": "HOPP Lemon Mint",
+      "collection": "HOPP Series",
+      "tagline": "Sub-Zero Alpine Rush",
+      "description": "Crisp mountain spearmint leaves blended with sun-ripened Sicilian lemon essence and ultra-chilled alkaline electrolyte salts.",
+      "flavorProfile": "Wild Spearmint • Sicilian Lemon • Glacial Salts",
+      "accentColor": "#00f0ff",
+      "glowColor": "rgba(0, 240, 255, 0.4)",
+      "badge": "HOPP Series",
+      "media": {
+        "canImage": "/media/products/HOPP_Lemon_Mint.webp",
+        "altText": "Hayati HOPP Lemon Mint 355ml aluminum can render"
+      },
+      "tastingNotes": ["Sub-Zero Chill", "Cooling Spearmint", "Ultra-Crisp Body"],
+      "nutrition": [
+        { "label": "Calories", "value": "0" },
+        { "label": "Total Sugar", "value": "0g" },
+        { "label": "Electrolytes", "value": "500mg" },
+        { "label": "Magnesium", "value": "75mg" },
+        { "label": "Potassium", "value": "200mg" }
+      ],
+      "inStock": true,
+      "ctaLink": "#newsletter"
+    },
+    {
+      "id": "hopp-wild-berry",
+      "name": "HOPP Wild Berry",
+      "collection": "HOPP Series",
+      "tagline": "Deep Forest Infusion",
+      "description": "Hand-foraged wild mountain blackberries and tart raspberries steeped with organic hibiscus petals and antioxidant-dense Brazilian acai.",
+      "flavorProfile": "Wild Blackberry • Acai Berry • Tart Hibiscus",
+      "accentColor": "#a855f7",
+      "glowColor": "rgba(168, 85, 247, 0.4)",
+      "badge": "HOPP Series",
+      "media": {
+        "canImage": "/media/products/HOPP_Wild_Berry.webp",
+        "altText": "Hayati HOPP Wild Berry 355ml aluminum can render"
+      },
+      "tastingNotes": ["Rich Dark Berries", "Velvety Tart Body", "Probiotic Boost"],
+      "nutrition": [
+        { "label": "Calories", "value": "10" },
+        { "label": "Total Sugar", "value": "0g" },
+        { "label": "Electrolytes", "value": "420mg" },
+        { "label": "Magnesium", "value": "50mg" },
+        { "label": "Potassium", "value": "160mg" }
+      ],
+      "inStock": true,
+      "ctaLink": "#newsletter"
+    },
+    {
+      "id": "sig-blue-lagoon",
+      "name": "Blue Lagoon",
+      "collection": "Signature Botanicals",
+      "tagline": "Oceanic Hydration Surge",
+      "description": "Deep ocean minerals paired with blue curacao citrus notes and marine electrolyte complex for intense post-exertion recovery.",
+      "flavorProfile": "Curacao Citrus • Alpine Minerals • Sea Salts",
+      "accentColor": "#06b6d4",
+      "glowColor": "rgba(6, 182, 212, 0.4)",
+      "badge": "Signature Line",
+      "media": {
+        "canImage": "/media/products/Blue_Lagoon.webp",
+        "altText": "Hayati Blue Lagoon 355ml aluminum can render"
+      },
+      "tastingNotes": ["Tropical Citrus", "Electric Cooling", "Rapid Electrolyte Rehydration"],
+      "nutrition": [
+        { "label": "Calories", "value": "5" },
+        { "label": "Total Sugar", "value": "0g" },
+        { "label": "Electrolytes", "value": "480mg" },
+        { "label": "Magnesium", "value": "70mg" },
+        { "label": "Potassium", "value": "185mg" }
+      ],
+      "inStock": true,
+      "ctaLink": "#newsletter"
+    },
+    {
+      "id": "sig-passion-fruit",
+      "name": "Golden Passion",
+      "collection": "Signature Botanicals",
+      "tagline": "Tropical Clarity Catalyst",
+      "description": "Sun-ripened passionfruit and Alphonso mango essence blended with sensorially balancing KSM-66 organic ashwagandha extract.",
+      "flavorProfile": "Passionfruit • Mango • Organic Ashwagandha",
+      "accentColor": "#f97316",
+      "glowColor": "rgba(249, 115, 22, 0.4)",
+      "badge": "Signature Line",
+      "media": {
+        "canImage": "/media/products/Passion_Fruit.webp",
+        "altText": "Hayati Golden Passion 355ml aluminum can render"
+      },
+      "tastingNotes": ["Lush Tropical Acid", "Smooth Botanical Balance", "Mental Poise"],
+      "nutrition": [
+        { "label": "Calories", "value": "10" },
+        { "label": "Total Sugar", "value": "0g" },
+        { "label": "Electrolytes", "value": "470mg" },
+        { "label": "Magnesium", "value": "65mg" },
+        { "label": "Potassium", "value": "180mg" }
+      ],
+      "inStock": true,
+      "ctaLink": "#newsletter"
+    },
+    {
+      "id": "sig-strawberry",
+      "name": "Ruby Strawberry",
+      "collection": "Signature Botanicals",
+      "tagline": "Crisp Botanical Berry",
+      "description": "Sweet alpine strawberries steeped with French wild rosemary and adaptogenic red Panax ginseng for sustained energy.",
+      "flavorProfile": "Wild Strawberry • Rosemary • Red Ginseng",
+      "accentColor": "#ec4899",
+      "glowColor": "rgba(236, 72, 153, 0.4)",
+      "badge": "Signature Line",
+      "media": {
+        "canImage": "/media/products/Strawberry.webp",
+        "altText": "Hayati Ruby Strawberry 355ml aluminum can render"
+      },
+      "tastingNotes": ["Bright Berry Sweetness", "Herbaceous Depth", "Zero Sugar Purity"],
+      "nutrition": [
+        { "label": "Calories", "value": "5" },
+        { "label": "Total Sugar", "value": "0g" },
+        { "label": "Electrolytes", "value": "450mg" },
+        { "label": "Magnesium", "value": "60mg" },
+        { "label": "Potassium", "value": "180mg" }
+      ],
+      "inStock": true,
+      "ctaLink": "#newsletter"
+    },
+    {
+      "id": "alder-pineapple",
+      "name": "Alder Tropical Pineapple",
+      "collection": "Alder Series",
+      "tagline": "Sun-Ripened Golden Tropics",
+      "description": "Pure Costa Rican golden pineapple extract charged with bioavailable ionic marine electrolytes and zero artificial sugars.",
+      "flavorProfile": "Golden Pineapple • Pink Salt • Alpine Water",
+      "accentColor": "#eab308",
+      "glowColor": "rgba(234, 179, 8, 0.4)",
+      "badge": "Alder Series",
+      "media": {
+        "canImage": "/media/products/Alder_Pineapple.webp",
+        "altText": "Hayati Alder Tropical Pineapple 355ml aluminum can render"
+      },
+      "tastingNotes": ["Lush Golden Pineapple", "Clean Mineral Balance", "No Caffeine"],
+      "nutrition": [
+        { "label": "Calories", "value": "5" },
+        { "label": "Total Sugar", "value": "0g" },
+        { "label": "Electrolytes", "value": "450mg" },
+        { "label": "Magnesium", "value": "60mg" },
+        { "label": "Potassium", "value": "180mg" }
+      ],
+      "inStock": true,
+      "ctaLink": "#newsletter"
+    },
+    {
+      "id": "alder-raspberry",
+      "name": "Alder Wild Raspberry",
+      "collection": "Alder Series",
+      "tagline": "Tart Mountain Botanical",
+      "description": "Cold-pressed wild mountain raspberries steeped with alpine spring water and cellular hydration salts.",
+      "flavorProfile": "Red Raspberry • Alpine Strata • Ionic Salts",
+      "accentColor": "#f43f5e",
+      "glowColor": "rgba(244, 63, 94, 0.4)",
+      "badge": "Alder Series",
+      "media": {
+        "canImage": "/media/products/Alder_Raspberry.webp",
+        "altText": "Hayati Alder Wild Raspberry 355ml aluminum can render"
+      },
+      "tastingNotes": ["Vibrant Tart Raspberry", "Crisp Clean Finish", "Zero Sugar"],
+      "nutrition": [
+        { "label": "Calories", "value": "5" },
+        { "label": "Total Sugar", "value": "0g" },
+        { "label": "Electrolytes", "value": "450mg" },
+        { "label": "Magnesium", "value": "60mg" },
+        { "label": "Potassium", "value": "180mg" }
+      ],
+      "inStock": true,
+      "ctaLink": "#newsletter"
+    },
+    {
+      "id": "hopp-strawberry",
+      "name": "HOPP Crisp Strawberry",
+      "collection": "HOPP Series",
+      "tagline": "Effervescent Mountain Berry",
+      "description": "Sparkling adaptation with ripe strawberry essence and cold-chilled glacial mineral salts.",
+      "flavorProfile": "Wild Strawberry • Sparkling Water • Marine Salts",
+      "accentColor": "#fb7185",
+      "glowColor": "rgba(251, 113, 133, 0.4)",
+      "badge": "HOPP Series",
+      "media": {
+        "canImage": "/media/products/HOPP_Strawberry.webp",
+        "altText": "Hayati HOPP Crisp Strawberry 355ml aluminum can render"
+      },
+      "tastingNotes": ["Effervescent Berry", "Clean Sparkling Finish", "Zero Sugar"],
+      "nutrition": [
+        { "label": "Calories", "value": "0" },
+        { "label": "Total Sugar", "value": "0g" },
+        { "label": "Electrolytes", "value": "450mg" },
+        { "label": "Magnesium", "value": "60mg" },
+        { "label": "Potassium", "value": "180mg" }
+      ],
+      "inStock": true,
+      "ctaLink": "#newsletter"
+    },
+    {
+      "id": "sig-green-mint",
+      "name": "Alpine Green Mint",
+      "collection": "Signature Botanicals",
+      "tagline": "Pure Spearmint Clarity",
+      "description": "Fresh Moroccan spearmint leaves infused with high-altitude alpine spring water for sustained cognitive clarity.",
+      "flavorProfile": "Spearmint Leaves • Lime Pith • Glacial Minerals",
+      "accentColor": "#10b981",
+      "glowColor": "rgba(16, 185, 129, 0.4)",
+      "badge": "Signature Line",
+      "media": {
+        "canImage": "/media/products/Green_Mint.webp",
+        "altText": "Hayati Alpine Green Mint 355ml aluminum can render"
+      },
+      "tastingNotes": ["Cooling Spearmint Blast", "Crisp Sparkling Taste", "Zero Sugar"],
+      "nutrition": [
+        { "label": "Calories", "value": "0" },
+        { "label": "Total Sugar", "value": "0g" },
+        { "label": "Electrolytes", "value": "500mg" },
+        { "label": "Magnesium", "value": "75mg" },
+        { "label": "Potassium", "value": "200mg" }
+      ],
+      "inStock": true,
+      "ctaLink": "#newsletter"
+    },
+    {
+      "id": "sig-hazelnut",
+      "name": "Velvet Hazelnut",
+      "collection": "Signature Botanicals",
+      "tagline": "Botanical Praline Infusion",
+      "description": "Roasted organic hazelnut essence with velvety smooth botanical adaptogens and zero glycemic load.",
+      "flavorProfile": "Toasted Hazelnut • Adaptogens • Marine Salts",
+      "accentColor": "#d97706",
+      "glowColor": "rgba(217, 119, 6, 0.4)",
+      "badge": "Signature Line",
+      "media": {
+        "canImage": "/media/products/HAZELNUT.webp",
+        "altText": "Hayati Velvet Hazelnut 355ml aluminum can render"
+      },
+      "tastingNotes": ["Velvety Praline", "Smooth Nutty Depth", "Zero Sugar Purity"],
+      "nutrition": [
+        { "label": "Calories", "value": "10" },
+        { "label": "Total Sugar", "value": "0g" },
+        { "label": "Electrolytes", "value": "400mg" },
+        { "label": "Magnesium", "value": "50mg" },
+        { "label": "Potassium", "value": "160mg" }
+      ],
+      "inStock": true,
+      "ctaLink": "#newsletter"
+    },
+    {
+      "id": "splash-grape-ape",
+      "name": "Grape Ape Splash",
+      "collection": "Fruit Splash",
+      "tagline": "Concord Grape Elevation",
+      "description": "20% pure fruit juice charged with antioxidant Vitamin C, zero caffeine, and sparkling mountain spring water.",
+      "flavorProfile": "Concord Grape • 20% Real Juice • Vitamin C",
+      "accentColor": "#9333ea",
+      "glowColor": "rgba(147, 51, 234, 0.4)",
+      "badge": "Fruit Splash Series",
+      "media": {
+        "canImage": "/media/products/Grape_Ape.webp",
+        "altText": "Hayati Grape Ape Splash 355ml aluminum can render"
+      },
+      "tastingNotes": ["20% Fruit Juice", "Enriched with Vitamin C", "No Caffeine"],
+      "nutrition": [
+        { "label": "Calories", "value": "25" },
+        { "label": "Total Sugar", "value": "4g" },
+        { "label": "Electrolytes", "value": "350mg" },
+        { "label": "Vitamin C", "value": "100% DV" },
+        { "label": "Potassium", "value": "150mg" }
+      ],
+      "inStock": true,
+      "ctaLink": "#newsletter"
+    },
+    {
+      "id": "classic-soda-coming-soon",
+      "name": "Classic Botanical Soda",
+      "collection": "Classic Soda",
+      "tagline": "Vintage Kola & Root Profiles",
+      "description": "Our upcoming heritage line of zero-sugar prebiotic botanical sodas, crafted with pure mountain water and organic botanicals.",
+      "flavorProfile": "Organic Kola Nut • Prebiotics • Real Vanilla",
+      "accentColor": "#854d0e",
+      "glowColor": "rgba(133, 77, 14, 0.4)",
+      "badge": "Coming Soon / VIP Reserve",
+      "media": {
+        "canImage": "/media/products/HAYATI.webp",
+        "altText": "Hayati Classic Botanical Soda Preview Can"
+      },
+      "tastingNotes": ["Heritage Kola Profile", "Prebiotic Fiber", "Coming Q3 2026"],
+      "nutrition": [
+        { "label": "Calories", "value": "5" },
+        { "label": "Total Sugar", "value": "0g" },
+        { "label": "Prebiotics", "value": "3g" },
+        { "label": "Electrolytes", "value": "400mg" },
+        { "label": "Potassium", "value": "160mg" }
+      ],
+      "inStock": false,
+      "ctaLink": "#newsletter"
+    }
+  ],
+  "benefits": {
+    "sectionHeader": {
+      "badge": "03 / THE REASON TO BELIEVE",
+      "headline": "THE 4-STEP REVOLUTION",
+      "subheadline": "Engineered from first principles to eradicate the synthetic compromises of legacy beverage manufacturing."
+    },
+    "steps": [
+      {
+        "stepNumber": 1,
+        "id": "benefits-1",
+        "title": "Alpine Spring Purity",
+        "subtitle": "Protected Deep Aquifer Sourcing",
+        "claimSwap": {
+          "standardReality": "Synthetic flavor chemicals, artificial preservatives, and municipal tap water disguised under commercial branding.",
+          "canInnovation": "Direct alpine mineral spring water naturally filtered through deep limestone strata with zero chemical additives."
+        },
+        "description": "We harvest our water exclusively from high-altitude subterranean aquifers protected by natural geological basalt layers.",
+        "metric": {
+          "value": "100%",
+          "label": "Pristine Mountain Spring Water"
+        },
+        "media": {
+          "type": "video",
+          "url": "/media/benefits-purity.mp4",
+          "poster": "/media/benefits-purity-poster.jpg",
+          "alt": "Alpine limestone water filtration narrative"
+        }
+      },
+      {
+        "stepNumber": 2,
+        "id": "benefits-2",
+        "title": "Infinite Aluminum Loop",
+        "subtitle": "100% Closed-Loop Recyclability",
+        "claimSwap": {
+          "standardReality": "Single-use petroleum plastics and multi-layer cartons that persist in oceanic ecosystems for over four hundred years.",
+          "canInnovation": "Infinitely recyclable aerospace-grade aluminum that re-enters the manufacturing cycle within sixty days of collection."
+        },
+        "description": "Aluminum cools forty percent faster than plastic or glass, protects internal liquid freshness from UV degradation, and leaves zero microplastic residue.",
+        "metric": {
+          "value": "0%",
+          "label": "Single-Use Plastic Footprint"
+        },
+        "media": {
+          "type": "video",
+          "url": "/media/benefits-aluminum.mp4",
+          "poster": "/media/benefits-aluminum-poster.jpg",
+          "alt": "100% infinitely recyclable aluminum loop narrative"
+        }
+      },
+      {
+        "stepNumber": 3,
+        "id": "benefits-3",
+        "title": "Ionic Hydration Matrix",
+        "subtitle": "450mg Bioavailable Marine Electrolytes",
+        "claimSwap": {
+          "standardReality": "Massive sucrose sugar loads and artificial sweetener syrups that trigger severe insulin spikes and rebound fatigue.",
+          "canInnovation": "Precisely calibrated ionic ratios of potassium, magnesium, and Himalayan pink salts for deep cellular hydration."
+        },
+        "description": "Formulated by metabolic scientists to replenish lost intracellular electrolytes without taxing digestive efficiency or spiking blood glucose levels.",
+        "metric": {
+          "value": "450mg",
+          "label": "Ionic Bioavailable Salts"
+        },
+        "media": {
+          "type": "video",
+          "url": "/media/benefits-electrolytes.mp4",
+          "poster": "/media/benefits-electrolytes-poster.jpg",
+          "alt": "Cellular electrolyte matrix scientific demonstration"
+        }
+      },
+      {
+        "stepNumber": 4,
+        "id": "benefits-4",
+        "title": "Cognitive Botanical Flow",
+        "subtitle": "Organic Adaptogens & Clean Clarity",
+        "claimSwap": {
+          "standardReality": "Over-caffeinated synthetic jitter cocktails that spike nervous tension and destroy restorative sleep architecture.",
+          "canInnovation": "Organic L-Theanine and nootropic green tea polyphenols calibrated to promote calm, laser-sharp cognitive flow."
+        },
+        "description": "Harness nature's most potent botanical nootropics to sustain flow state through high-stress work sessions and strenuous athletic training.",
+        "metric": {
+          "value": "0g",
+          "label": "Glycemic Load & Crash"
+        },
+        "media": {
+          "type": "video",
+          "url": "/media/benefits-nootropics.mp4",
+          "poster": "/media/benefits-nootropics-poster.jpg",
+          "alt": "Organic botanical nootropics cognitive flow demonstration"
+        }
+      }
+    ]
+  },
+  "newsletter": {
+    "sectionHeader": {
+      "badge": "05 / ALLOCATION REGISTRATION",
+      "headline": "CLAIM BATCH 001 ACCESS",
+      "subheadline": "Our initial canning run is strictly capped at 25,000 cases. Enter your email to secure priority dispatch and founder pricing."
+    },
+    "inputPlaceholder": "Enter your professional or personal email...",
+    "submitButtonText": "Claim Priority Allocation",
+    "submittingText": "Reserving Your Case...",
+    "successTitle": "Allocation Confirmed",
+    "successMessage": "You're confirmed for Batch 001 Priority Dispatch. Watch your inbox for private access credentials 48 hours prior to public release.",
+    "privacyConsent": "By registering, you agree to receive dispatch notifications and product updates. You may opt out anytime. View our Privacy Policy."
+  },
+  "footer": {
+    "brandStamp": "Hayati",
+    "missionStatement": "Premium functional beverages crafted to energise and hydrate, using only the finest natural ingredients. 100% recyclable aluminum.",
+    "links": {
+      "product": [
+        { "label": "All Flavors", "href": "#variants" },
+        { "label": "Alder Series", "href": "#variants" },
+        { "label": "HOPP Series", "href": "#variants" },
+        { "label": "Fruit Splash", "href": "#variants" }
+      ],
+      "brand": [
+        { "label": "About Hayati", "href": "/about" },
+        { "label": "Benefits", "href": "#benefits" },
+        { "label": "FAQ", "href": "#faq" },
+        { "label": "Contact Us", "href": "mailto:info@hayatiworld.com" }
+      ],
+      "legal": [
+        { "label": "Terms & Conditions", "href": "/terms" },
+        { "label": "Privacy Policy", "href": "/privacy" },
+        { "label": "Cancellation & Refund Policy", "href": "/refund-policy" },
+        { "label": "Legal Notice & FSSAI", "href": "/legal-notice" }
+      ]
+    },
+    "copyright": "© Hayati World. All rights reserved."
+  }
+}
